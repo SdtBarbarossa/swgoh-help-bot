@@ -1,0 +1,3 @@
+﻿# swgoh-helper-bot
+
+
