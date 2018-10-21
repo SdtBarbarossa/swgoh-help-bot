@@ -1,0 +1,9 @@
+{
+  "name": "swgoh-line",
+  "version": "0.0.0",
+  "description": "swgoh-line",
+  "main": "server.js",
+  "author": {
+    "name": "Midi"
+  }
+}
